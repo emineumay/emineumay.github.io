@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui;
+    background-color: #E6F0FF;
+}
+
+.container {
+    max-width: 934px;
+    margin-inline: auto;
+    padding:0 0 92px 64px;
+}
+.images{
+    margin-top: 43px;
+    /* float: right; */
+}
+.illustration {
+    float: right;
+    margin-top: 43px;
+}
+
+.first_oval {
+    float: right;
+    margin: 116px 73px 0 17px;
+}
+
+.second_oval {
+    float: right;
+    margin: 296px 0 0 4px;
+}
+
+.third_oval {
+    float: right;
+    margin: 47px 17px 0 0;
+}
+
+.title {
+    font-size: 20px;
+    padding: 68px 0 0 0;
+    width: 542px;
+    color: #212121;
+}
+
+.paragraph {
+    margin-top: 4px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #212121;
+}
+
+.container a {
+    width: 144px;
+    background-color: #0D6EFD;
+    color:white;
+    padding: 16px 40px ;
+    margin-top: 24px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 32px;
+    font-weight: bold;
+    font-size: 23px;
+    border: #0D6EFD;
+}

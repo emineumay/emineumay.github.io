@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui;
+    /* background-color: #BD3E3E; */
+}
+
+.container {
+    margin-inline: auto;
+    width: 1662px;
+    height: 1024px;
+    background-image: url(/assets/img/hero-restaurant/hero-restaurant.png);
+    background-repeat: no-repeat;
+    margin-top: 25px;
+}
+
+.first_text {
+    font-size: 140px;
+    margin-left: 165px;
+    padding-top: 155px;
+    width: 517px;
+    font-weight: bold;
+    color: white;
+}
+
+.second_text {
+    font-size: 24px;
+    margin: 35px 0 35px 165px;
+    width: 517px;
+    color: white;
+}
+
+.container a {
+    width: 294px;
+    display: inline-block;
+    margin: 35px 0 34px 165px;
+    border: 1px solid white;
+    border-radius: 100px;
+}
+
+.price {
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+.yellow_circle {
+    width: 98px;
+    height: 98px;
+    background-color: #FFC107;
+    border-radius: 100px;
+    float: left;
+    padding-left: 33px;
+    padding-top: 34px;
+    /* margin-bottom: 34px; */
+}
+
+.delivery {
+    margin-left: 165px;
+    margin-bottom: 203px;
+}
+
+.delivery img {
+    float: left;
+    margin-right: 7px;
+    margin-right: 20px;
+}
+.delivery p{
+    font-size: 12px;
+    color: white;
+}
+.delivery h6{
+    color: white;
+    font-weight: bold;
+
+}

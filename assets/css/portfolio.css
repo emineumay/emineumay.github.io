@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui;
+    color: #212121;
+}
+
+.container {
+    margin-inline: auto;
+    max-width: 1440px;
+    padding-top: 20px;
+}
+
+.title {
+    max-width: 874px;
+
+    margin: 120px 411px 120px 155px;
+}
+
+.title p {
+    font-size: 30px;
+    margin-bottom: 12px;
+}
+.title span{
+    font-size: 60px;
+    
+    font-weight: bold;
+}
+
+.icons{
+    max-width: 208px;
+    margin-top: 40px;
+    margin-bottom: 120px;
+}
+
+.project{
+    max-width: 1440px;
+}
+.project h2{
+    margin: 122px 0 40px 165px;
+}
+.section{
+    border: solid 1px #C4C4C4 ;
+    border-radius: 12px;
+    max-width: 1110px;
+    margin-left: 165px;
+    margin-bottom: 80px;
+    font-size: 16px;
+}
+.pages{
+    border-radius: 30px;
+    width: 1062px;
+    padding:24px 24px 24px 60px;
+}
+.section span{
+    font-weight: bold;
+    font-size: 30px;
+    margin: 24px 0 12px 24px;
+}
+
+.project p{
+    margin: 24px 0 12px 24px;
+}
+h6{
+    margin: 64px 0 24px 24px;
+    text-decoration: none;
+}
+
+.contact{
+    padding: 120px 165px;
+}
+.contact p{
+    font-size: 40px;
+}
+.contact span{
+    font-size: 20px;
+}
+.end{
+    font-size: 14px;
+    margin: 32px 0 32px 165px;
+}
+a{
+    text-decoration: none;
+    color: #212121;
+}
