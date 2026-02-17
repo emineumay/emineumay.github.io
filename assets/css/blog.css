@@ -35,7 +35,6 @@ body {
     margin-left: 165px;
     color: #212121;
     font-size: 16px;
-    /* width: 1112px; */
 }
 
 .first_section img {
@@ -64,7 +63,7 @@ body {
     padding: 96px 124px 96px 126px;
     font-weight: bold;
     margin-inline: auto;
-    width: 1110px;
+    max-width: 1110px;
     border-radius: 12px;
 }
 

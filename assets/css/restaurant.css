@@ -11,7 +11,7 @@ body {
 
 .container {
     margin-inline: auto;
-    width: 1662px;
+    max-width: 1662px;
     height: 1024px;
     background-image: url(/assets/img/hero-restaurant/hero-restaurant.png);
     background-repeat: no-repeat;
@@ -30,12 +30,12 @@ body {
 .second_text {
     font-size: 24px;
     margin: 35px 0 35px 165px;
-    width: 517px;
+    max-width: 517px;
     color: white;
 }
 
 .container a {
-    width: 294px;
+    max-width: 294px;
     display: inline-block;
     margin: 35px 0 34px 165px;
     border: 1px solid white;
@@ -53,14 +53,13 @@ body {
 }
 
 .yellow_circle {
-    width: 98px;
+    max-width: 98px;
     height: 98px;
     background-color: #FFC107;
     border-radius: 100px;
     float: left;
     padding-left: 33px;
     padding-top: 34px;
-    /* margin-bottom: 34px; */
 }
 
 .delivery {

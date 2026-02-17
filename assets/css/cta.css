@@ -16,7 +16,7 @@ body {
     float: right;
 }
 .text{
-    width: 532px;
+    max-width: 532px;
     font-size: 40px;
     color: white;
     margin: 83px 76px 24px 96px;
@@ -24,7 +24,7 @@ body {
     font-weight: bold;
 }
 .container a{
-    width: 208px;
+    max-width: 208px;
     background-color:#DC3545 ;
     text-align: center;
     text-decoration: none;
