@@ -53,7 +53,7 @@ body {
 }
 
 .container a {
-    width: 144px;
+    max-width: 144px;
     background-color: #0D6EFD;
     color:white;
     padding: 16px 40px ;
